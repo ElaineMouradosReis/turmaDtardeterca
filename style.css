@@ -1,10 +1,10 @@
 .cabeçalho{
     background-color: #EEEF8F;
-    color: #fffffd;
+    color: #d76ee7;
     display: flex;
     justify-content: space-around;
     padding: 10px;
-    font-size: 20px;
+    font-size: 30px;
 }
 .cabeçalho-imagem{
     width: 10%;
@@ -13,3 +13,12 @@
 .cabeçalho-lista-item{
     display: inline-block;
 } 
+.modelos {
+    background-image: linear-gradient(#EEEF8F, white);
+    color: #d76ee7; 
+    font-size: 15px;
+    padding: 50px 45px;
+}
+.modelos-titulo{
+
+}
